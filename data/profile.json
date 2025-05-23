@@ -9,15 +9,23 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "./imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "JavaScript",
+        "logo": "./imgs/js.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "./imgs/react.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "./imgs/html.png"
+      },
+      {
+        "name": "Git",
+        "logo": "./imgs/git.png"
       }
     ],
     "softSkills": [
